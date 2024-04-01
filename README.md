@@ -1,2 +1,2 @@
-# practice
+### 비터스 클론코딩 연습
 Beatus 교육자료
